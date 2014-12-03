@@ -11,3 +11,5 @@ document.getElementById("navBar").innerHTML =
     "<li><a href='Events.html'>Events</a></li>" +
     "<li><a href='Gallery.html'>Gallery</a></li>" +
     "</ul>";
+//document.getElementById("trademark").innerHTML =
+//    ""

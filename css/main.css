@@ -20,3 +20,10 @@ ul#menu li a:hover {
     color: white;
     background-color: black;
 }
+
+footer {
+    background-color: #FC892F;
+    border-top: 5px solid #EC791F;
+    font-size: 80%;
+    text-align: right;
+}
